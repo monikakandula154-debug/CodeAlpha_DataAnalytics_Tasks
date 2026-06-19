@@ -129,6 +129,3 @@ To transform raw data into meaningful visual insights using charts, graphs, and 
 ](#)
 
 ---
-│   ├── images/
-│
-├── README.md
